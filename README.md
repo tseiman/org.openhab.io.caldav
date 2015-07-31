@@ -32,7 +32,7 @@ CalDav IO allows you to query events from CalDAV calendar and schedule those to 
 
 ## Notice
 - CalDAV IO binding is beta and just tested on openHAB 1.8, on a few systems and needs more review
-- CalDAV IO has as well a persistence part: [org.openhab.io.caldav] (https://github.com/tseiman/org.openhab.persistence.caldav)
+- CalDAV IO has as well a persistence part: [org.openhab.persistence.caldav] (https://github.com/tseiman/org.openhab.persistence.caldav)
 
 ## Compatibility
 - openHAB 1.8 (tested)
