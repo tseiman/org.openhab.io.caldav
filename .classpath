@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**" kind="src" output="target/classes" path="src/main/java"/>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources"/>
+	<classpathentry exported="true" kind="lib" path="lib/jakarta-slide-webdavlib-2.2pre1-httpclient-3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-xml-xerces.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/com.springsource.edu.emory.mathcs.backport-3.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ical4j-1.0.6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="lib" path="lib/jsr305.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/caldav4j-0.8-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
